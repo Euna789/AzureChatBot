@@ -1,7 +1,8 @@
 # PiBot
 <p><img src="http://drive.google.com/uc?export=view&id=1wU1TiDkOX54c_aeYEnOjNAzb0MB6JdoI" width="500"></p>
 
-PiBot 실행하기[https://vilut1002.github.io/AzureChatBot/index.html](https://vilut1002.github.io/AzureChatBot/index.html)
+PiBot 실행하기 (경진대회 종료로 azure 구독이 끝나 실행되지 않습니다)
+[https://vilut1002.github.io/AzureChatBot/index.html](https://vilut1002.github.io/AzureChatBot/index.html)
 
 피봇은 MS Azure를 사용해 만든 챗봇으로, 대한적십자사의 헌혈 예약, 조회, 취소 등의 서비스와 함께 헌혈에 대한 다양한 정보를 제공합니다.
 
