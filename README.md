@@ -1,3 +1,8 @@
+# KCC2020 Chatbot 경진대회
+한국정보과학회 x Microsoft x 디모아 공동개최의 Chatbot 경진대회   
+최고기술상 및 특별상 수상
+<p><img src="https://user-images.githubusercontent.com/53745427/90875133-a8597780-e3db-11ea-9e93-51e1fb784497.png" width="500"></p>
+
 # PiBot
 <p><img src="http://drive.google.com/uc?export=view&id=1wU1TiDkOX54c_aeYEnOjNAzb0MB6JdoI" width="500"></p>
 
